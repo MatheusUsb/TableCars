@@ -1,4 +1,4 @@
-# TableCars
+#TableCars
 -- Criar a tabela de carros
 CREATE TABLE Carros (
     ID INT PRIMARY KEY,
