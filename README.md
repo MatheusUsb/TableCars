@@ -9,7 +9,7 @@ CREATE TABLE Carros (
     Preco DECIMAL(10, 2)
 );
 
--- Inserir dados fictícios
+-- Inserir dados fictícios 
 INSERT INTO Carros (ID, Marca, Modelo, Ano, Cor, Preco)
 VALUES
     (1, 'Toyota', 'Corolla', 2022, 'Prata', 25000.00),
